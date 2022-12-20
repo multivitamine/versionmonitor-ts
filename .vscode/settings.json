@@ -1,0 +1,8 @@
+{
+	"window.zoomLevel": 1,
+	"editor.fontLigatures": true,
+	"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+	"git.enabled": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+
+}
